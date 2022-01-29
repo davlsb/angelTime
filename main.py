@@ -8,7 +8,7 @@ from keepAlive import keep_alive
 
 client = discord.Client()
 channel_id = os.environ['ID'] #replace with Channel ID of the channel where the messages are sent
-token = os.environ['TOKEN'] #replace with bot token, which is found in Discord dev setting
+token = os.environ['TOKEN'] #replace with bot token, which is found in Discord developer setting
 
 eastern = timezone('US/Eastern')
 

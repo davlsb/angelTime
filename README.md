@@ -2,6 +2,7 @@
 A simple discord bot, created using Python and Discord.py API wrapper, to tell the members when the time is a master number.
 When the time comes, the bot will announce its arrival:
 <br>
+<br>
 <p align="center">
  <img src="https://user-images.githubusercontent.com/56422634/151648835-6b3f61c6-2f94-40e3-9bca-3b32f3c1ea40.png"/>
 </p>
